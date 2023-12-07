@@ -1,0 +1,5 @@
+Anytown,Some County,Jones,\N,R27 000\,00,\N
+Bumblyburg,Some County,Baker,\N,R24 999\,00,\N
+Moetown,Some County,Smith,\N,R32 100\,00,\N
+Bigville,Some County,Kao,\N,R31 500\,00,\N
+New Brillig,Some County,Carroll,\N,R72 690\,00,\N
